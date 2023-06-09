@@ -1,0 +1,57 @@
+body {
+  font-family: sans-serif;
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+}
+
+input {
+  width: 200px;
+}
+
+select {
+  width: 150px;
+}
+
+button {
+  width: 100px;
+}
+
+p {
+  margin-top: 10px;
+}
+
+html
+{
+  background-color: wheat;
+}
+
+h1
+{ 
+  text-align: center;
+}
+
+img.first
+{
+  height: 500px;
+  width: 500px ;
+  position: relative;
+}
+
+img.second
+{
+  height: 500px;
+  width: 500px ;
+  position: absolute;
+  left: 35%;
+}
+
+img.third
+{
+  height: 500px;
+  width: 500px ;
+  position: absolute;
+  left: 68%;
+}
