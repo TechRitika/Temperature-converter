@@ -14,5 +14,5 @@ function convert() {
   }
 
   document.getElementById("result").innerHTML = scale + " : " + temperature + " = " + celsius + "°C / " + fahrenheit + "°F / " + kelvin + "K";
-}
+} 
 
